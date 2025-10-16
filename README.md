@@ -13,7 +13,7 @@ I'm a business intelligence/tech enthusiast with a unique background that blends
 I am currently open to outsourcing projects, freelance roles, and collaborations in tech and data-related fields. I am looking for remote positions until after I complete my masters in May of 2027. I am open to any in person positions in the Dallas/DFW area. 
 
 ## 🛠️ Tech Skills
-- **Languages**: Python, SQL
+- **Languages**: Python, SQL, R
 - **Tools**: Pandas, Tableau, Power BI, Excel 
 - **Data**: Data Annotation 
 - **Other**: BIA Training, Healthcare Administration Exposure  

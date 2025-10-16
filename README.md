@@ -19,7 +19,6 @@ I am currently open to outsourcing projects, freelance roles, and collaborations
 - **Other**: BIA Training, Healthcare Administration Exposure  
 
 ## 🔗 Connect with Me 
-- 📄 [Resume](#) (https://docs.google.com/document/d/1I2GRctlkdzNPbFJovW7R9e_ie_HQpfQB/edit) 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sairamya-macha/)
 
 Thank you for visiting my profile! And please feel free to check out some of my projects/repositories!
